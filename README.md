@@ -1,6 +1,6 @@
 # gh precli
 
-[GitHub CLI](https://github.com/cli/cli) extension for running [Precaution CLI](https://github.com/securesauce/precli).
+[GitHub CLI](https://github.com/cli/cli) extension for running the [Precaution CLI](https://github.com/securesauce/precli).
 
 ## Installation
 ```bash
